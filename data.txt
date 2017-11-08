@@ -1,0 +1,9 @@
+2014 Executive Trump,Donald 2000 51
+2015 Executive Kim,Shinyeob 3000 100000
+2014 Executive Science,Computer 5000 55
+2014 Employee Trump,Donald 2000
+2015 Employee Kim,Shinyeob 4000
+2014 Employee Science,Computer 3000
+2014 Salesman Trump,Donald 3000 1000000
+2015 Salesman Kim,Shinyeob 4000 2000000
+2014 Salesman Barack,Obama 3000 500000
